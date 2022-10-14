@@ -58,3 +58,6 @@ int calculateDistance(){
   return distance;
 }
 ```
+
+## Circuit Diagram
+![image](https://github.com/thaminaakther/Emabedded-System-Lab/blob/dfcd4255a8c3f8d5280b651233b3a68b8a019f0a/radar_circuit_diagram.png)
