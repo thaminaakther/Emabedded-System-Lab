@@ -1,11 +1,11 @@
 # Emabedded-System-Lab
-Arduino Radar Model for Distance and Angle Finding using Ultrasonic Sensor and Servo Motor
+#Arduino Radar Model for Distance and Angle Finding using Ultrasonic Sensor and Servo Motor
 
 
 ## Components used / Material
-Arduino uno
-Ultrasonic sensor
-Servo Motor
+* Arduino uno
+* Ultrasonic sensor
+* Servo Motor
 
 
 ## Code
